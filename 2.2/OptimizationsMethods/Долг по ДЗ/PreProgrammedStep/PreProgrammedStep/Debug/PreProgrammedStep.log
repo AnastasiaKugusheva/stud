@@ -1,0 +1,15 @@
+﻿Сборка начата 11.05.2014 19:11:04.
+     1>Проект "C:\Users\stacy_000\SkyDrive\Progs\OptimizationsMethods\PreProgrammedStep\PreProgrammedStep\PreProgrammedStep.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\PreProgrammedStep.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PreProgrammedStep.cpp
+         PreProgrammedStep.cpp
+     1>c:\users\stacy_000\skydrive\progs\optimizationsmethods\preprogrammedstep\preprogrammedstep\preprogrammedstep.cpp(23): warning C4305: инициализация: усечение из "double" к "float"
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\stacy_000\SkyDrive\Progs\OptimizationsMethods\PreProgrammedStep\Debug\PreProgrammedStep.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\stacy_000\SkyDrive\Progs\OptimizationsMethods\PreProgrammedStep\Debug\PreProgrammedStep.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\stacy_000\SkyDrive\Progs\OptimizationsMethods\PreProgrammedStep\Debug\PreProgrammedStep.lib" /MACHINE:X86 Debug\PreProgrammedStep.obj
+         Debug\stdafx.obj
+         PreProgrammedStep.vcxproj -> C:\Users\stacy_000\SkyDrive\Progs\OptimizationsMethods\PreProgrammedStep\Debug\PreProgrammedStep.exe
+     1>Сборка проекта "C:\Users\stacy_000\SkyDrive\Progs\OptimizationsMethods\PreProgrammedStep\PreProgrammedStep\PreProgrammedStep.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.62
